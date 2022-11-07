@@ -28,9 +28,9 @@ Learning Statistics
 
 ## Day 3 - 7/11/22
 Learning Statistics
--Inferential statistics fundamentals
+- Inferential statistics fundamentals
  * Central Limit Theorem
  
--Exam - Descriptive statistics fundamentals
+- Exam - Descriptive statistics fundamentals
 
 * Platform: 365 data science
