@@ -36,4 +36,8 @@
 - Exam - Descriptive statistics fundamentals :memo:
 - Exam - Inferential statistics fundamentals 📝
 
+- Confidence Intervals
+  * Confidence intervals
+  * z-score
+   
 * Platform: 365 data science
