@@ -29,7 +29,7 @@ Learning Statistics
 ## Day 3 - 7/11/22
 Learning Statistics
 - Inferential statistics fundamentals
- * Central Limit Theorem
+  * Central Limit Theorem
  
 - Exam - Descriptive statistics fundamentals
 
