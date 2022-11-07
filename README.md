@@ -21,5 +21,16 @@ Learning Statistics
 ## Day 2 - 6/11/22
 Learning Statistics
 - Inferential statistics fundamentals
-  *
+  * Normal distribution
+  * Standard normal distribution
+  
+* Platform: 365 data science
+
+## Day 3 - 7/11/22
+Learning Statistics
+-Inferential statistics fundamentals
+ * Central Limit Theorem
+ 
+-Exam - Descriptive statistics fundamentals
+
 * Platform: 365 data science
