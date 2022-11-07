@@ -30,7 +30,10 @@ Learning Statistics
 Learning Statistics
 - Inferential statistics fundamentals
   * Central Limit Theorem
+  * Standard error
+  * Estimators & estimates
  
 - Exam - Descriptive statistics fundamentals
+- Exam - Inferential statistics fundamentals
 
 * Platform: 365 data science
