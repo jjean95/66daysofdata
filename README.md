@@ -41,3 +41,19 @@
   * z-score
    
 * Platform: 365 data science
+
+## Day 4 - 8/11/22
+**Statistics** :bar_chart:
+
+- Confidence Intervals
+  * Student's T Distribution
+  * t-score
+  * Margin of error
+  * Confidence intervals: Dependent samples, Independent samples
+
+- Exam - Confidence Intervals :memo:
+   
+* Platform: 365 data science
+
+## Day 5 - 9/11/22
+**Statistics** :bar_chart:
