@@ -59,11 +59,11 @@
 **Statistics** :bar_chart:
 
 - Hypothesis testing
- * Null vs Alternative
- * Rejection region & significance level
- * Type 1 error vs type 2 error
- * Test for mean, population variance known & unknown
- * p-value
- * Test for mean, dependent & independent samples
+  * Null vs Alternative
+  * Rejection region & significance level
+  * Type 1 error vs type 2 error
+  * Test for mean, population variance known & unknown
+  * p-value
+  * Test for mean, dependent & independent samples
 
 * Platform: 365 data science
