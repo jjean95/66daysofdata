@@ -2,7 +2,7 @@
 66 Days of data log
 
 ## Day 1 - 5/11/22
-**Statistics** :chart_with_upwards_trend:
+### **Statistics** :chart_with_upwards_trend:
 - Descriptive statistics fundamentals
   * Types of data
   * Levels of measurement
@@ -19,7 +19,7 @@
 * Platform: 365 data science
 
 ## Day 2 - 6/11/22
-**Statistics** :chart_with_upwards_trend:
+### **Statistics** :chart_with_upwards_trend:
 - Inferential statistics fundamentals
   * Normal distribution
   * Standard normal distribution
@@ -27,7 +27,7 @@
 * Platform: 365 data science
 
 ## Day 3 - 7/11/22
-**Statistics** :chart_with_upwards_trend:
+### **Statistics** :chart_with_upwards_trend:
 - Inferential statistics fundamentals
   * Central Limit Theorem
   * Standard error
@@ -43,7 +43,7 @@
 * Platform: 365 data science
 
 ## Day 4 - 8/11/22
-**Statistics** :chart_with_upwards_trend:
+### **Statistics** :chart_with_upwards_trend:
 
 - Confidence Intervals
   * Student's T Distribution
@@ -56,7 +56,7 @@
 * Platform: 365 data science
 
 ## Day 5 - 9/11/22
-**Statistics** :chart_with_upwards_trend:
+### **Statistics** :chart_with_upwards_trend:
 
 - Hypothesis testing
   * Null vs Alternative
@@ -71,7 +71,7 @@
 * Platform: 365 data science
 
 ## Day 6 - 10/11/22
-**Probability** :bar_chart:
+### **Probability** :bar_chart:
 
 - The basics of probability
   * Probability formula
