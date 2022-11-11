@@ -81,3 +81,12 @@
 
 * Platform: 365 data science
 
+## Day 7 - 11/11/22
+### **Probability** :bar_chart:
+
+- Combinatorics
+  * Permutations
+  * Factorals
+  * Variations
+
+* Platform: 365 data science
