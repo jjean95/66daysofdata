@@ -90,3 +90,11 @@
   * Variations
 
 * Platform: 365 data science
+
+## Day 8 - 12/11/22
+### **Probability** :bar_chart:
+
+- Bayesian Inference
+  * Sets & events
+
+* Platform: 365 data science
