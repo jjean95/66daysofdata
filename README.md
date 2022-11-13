@@ -98,3 +98,12 @@
   * Sets & events
 
 * Platform: 365 data science
+
+
+## Day 9 - 13/11/22
+### **Probability** :bar_chart:
+
+- Bayesian Inference
+  * Intersection
+  * Union
+  * Mutually Exculsive
