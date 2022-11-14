@@ -107,3 +107,10 @@
   * Intersection
   * Union
   * Mutually Exculsive
+ 
+## Day 10 - 14/11/22
+### **Probability** :bar_chart:
+
+- Bayesian Inference
+  * Dependent & Independent events
+  * Conditional probability
