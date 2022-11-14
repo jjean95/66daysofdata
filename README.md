@@ -116,3 +116,5 @@
   * Conditional probability
   * Law of total probability
   * Additive Law
+  * Multiplication rule
+  * Bayes theorem
