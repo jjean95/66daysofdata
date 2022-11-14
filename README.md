@@ -114,3 +114,5 @@
 - Bayesian Inference
   * Dependent & Independent events
   * Conditional probability
+  * Law of total probability
+  * Additive Law
