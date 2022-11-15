@@ -124,8 +124,8 @@
 
 - Discrete distributions
   * Types of distributions
-  * discrete distributions
-  * uniform distributions
+  * Discrete distributions
+  * Uniform distributions
   * Bernoulli distribution
   * Binomial distribution
   * Poisson distribution
