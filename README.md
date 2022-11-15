@@ -118,3 +118,11 @@
   * Additive Law
   * Multiplication rule
   * Bayes theorem
+
+## Day 11 - 15/11/22
+### **Probability** :bar_chart:
+
+- Discrete distributions
+  * Types of distributions
+  * discrete distributions
+  * uniform distributions
