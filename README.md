@@ -107,7 +107,9 @@
   * Intersection
   * Union
   * Mutually Exculsive
- 
+
+* Platform: 365 data science
+
 ## Day 10 - 14/11/22
 ### **Probability** :bar_chart:
 
@@ -119,6 +121,8 @@
   * Multiplication rule
   * Bayes theorem
 
+* Platform: 365 data science
+
 ## Day 11 - 15/11/22
 ### **Probability** :bar_chart:
 
@@ -129,3 +133,11 @@
   * Bernoulli distribution
   * Binomial distribution
   * Poisson distribution
+ 
+### **Data Cleaning & Preprocessing with Pandas** 🐼
+
+- Introduction
+  * Attributes
+  * Index
+
+* Platform: 365 data science
