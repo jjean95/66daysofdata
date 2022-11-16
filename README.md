@@ -141,3 +141,11 @@
   * Index
 
 * Platform: 365 data science
+
+## Day 12 - 16/11/22
+### **Data Cleaning & Preprocessing with Pandas** 🐼
+
+- Introduction
+  * Index
+
+* Platform: 365 data science
