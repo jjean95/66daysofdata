@@ -150,5 +150,7 @@
   * Methods - Numpy: sum(), min(), max(), idxmax(), idxmin()
   * Methods - Pandas: head(), tail()
   * Parameters vs Arguments
+  * Documentations
+  * DataFrames
 
 * Platform: 365 data science
