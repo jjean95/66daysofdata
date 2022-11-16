@@ -147,6 +147,6 @@
 
 - Introduction
   * Index - Label-based / Position-based
-  * Methods
+  * Methods - sum(), min(), max(), idxmax(), idxmin()
 
 * Platform: 365 data science
