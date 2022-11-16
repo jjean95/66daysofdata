@@ -146,6 +146,6 @@
 ### **Data Cleaning & Preprocessing with Pandas** 🐼
 
 - Introduction
-  * Index
+  * Index - Label-based / Position-based
 
 * Platform: 365 data science
