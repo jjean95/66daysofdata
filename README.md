@@ -147,5 +147,6 @@
 
 - Introduction
   * Index - Label-based / Position-based
+  * Methods
 
 * Platform: 365 data science
