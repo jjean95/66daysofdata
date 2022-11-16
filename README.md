@@ -153,4 +153,6 @@
   * Documentations
   * DataFrames
 
+- Data Cleaning & Preprocessing
+
 * Platform: 365 data science
