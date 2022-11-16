@@ -147,6 +147,7 @@
 
 - Introduction
   * Index - Label-based / Position-based
-  * Methods - sum(), min(), max(), idxmax(), idxmin()
+  * Methods - Numpy: sum(), min(), max(), idxmax(), idxmin()
+  * Methods - Pandas: head(), tail()
 
 * Platform: 365 data science
