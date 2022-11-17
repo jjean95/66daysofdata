@@ -156,3 +156,15 @@
 - Data Cleaning & Preprocessing
 
 * Platform: 365 data science
+
+## Day 13 - 17/11/22
+### **Probability** :bar_chart:
+
+- Continuous distributions
+  * Normal distribution
+ 
+### **Data Cleaning & Preprocessing with Pandas** 🐼
+
+- Data Cleaning & Preprocessing
+
+* Platform: 365 data science
