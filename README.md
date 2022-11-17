@@ -162,6 +162,7 @@
 
 - Continuous distributions
   * Normal distribution
+  * Chi-square distribution
  
 ### **Data Cleaning & Preprocessing with Pandas** 🐼
 
