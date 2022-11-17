@@ -164,6 +164,7 @@
   * Normal distribution
   * Chi-square distribution
   * Exponential distribution
+  * Logistic distribution
  
 ### **Data Cleaning & Preprocessing with Pandas** 🐼
 
