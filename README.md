@@ -171,3 +171,17 @@
 - Data Cleaning & Preprocessing
 
 * Platform: 365 data science
+
+## Day 14 - 18/11/22
+### **Introduction to Data & Data Science** 
+
+- Data Science fields
+
+* Platform: 365 data science
+
+## Day 15 - 19/11/22
+### **Fashion Analytics with Tableau** 
+
+- Introduction
+
+* Platform: 365 data science
