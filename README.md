@@ -191,6 +191,6 @@
 
 - Creating Tableau Dashboard
 
-[Link](https://public.tableau.com/app/profile/goh.jia.ean/viz/BuildingaFashionAnalyticsStory)
+[Link](https://public.tableau.com/app/profile/goh.jia.ean/viz/BuildingaFashionAnalyticsStory/Story1#1)
 
 * Platform: 365 data science
