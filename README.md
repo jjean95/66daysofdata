@@ -185,3 +185,12 @@
 - Introduction
 
 * Platform: 365 data science
+
+## Day 16 - 20/11/22
+### **Fashion Analytics with Tableau** 
+
+- Creating Tableau Dashboard
+
+[Link](https://public.tableau.com/app/profile/goh.jia.ean/viz/BuildingaFashionAnalyticsStory)
+
+* Platform: 365 data science
