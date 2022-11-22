@@ -196,8 +196,8 @@
 * Platform: 365 data science
 
 ## Day 17 - 22/11/22
-### **Python** 
+### **Python quick start** 🐍
 
-- 
+- Fundamentals: Data, Functions, Sequences, Conditional Statements, Iteration, Recursion
 
 * Platform: LinkedIn Learning
