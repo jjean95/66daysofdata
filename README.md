@@ -180,17 +180,24 @@
 * Platform: 365 data science
 
 ## Day 15 - 19/11/22
-### **Fashion Analytics with Tableau** 
+### **Fashion Analytics with Tableau** 👗
 
 - Introduction
 
 * Platform: 365 data science
 
-## Day 16 - 20/11/22
-### **Fashion Analytics with Tableau** 
+## Day 16 - 21/11/22
+### **Fashion Analytics with Tableau** 👗
 
 - Creating Tableau Dashboard
 
 [Link](https://public.tableau.com/app/profile/goh.jia.ean/viz/BuildingaFashionAnalyticsStory/Story1#1)
 
 * Platform: 365 data science
+
+## Day 17 - 22/11/22
+### **Python** 
+
+- 
+
+* Platform: LinkedIn Learning
