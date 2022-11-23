@@ -201,3 +201,13 @@
 - Fundamentals: Data, Functions, Sequences, Conditional Statements, Iteration, Recursion
 
 * Platform: LinkedIn Learning
+
+## Day 18 - 23/11/22
+### **Python data analysis** 🐍
+
+- Loops
+- Lists, tuples
+- Dictionaries
+- Comprehensions
+
+* Platform: LinkedIn Learning
