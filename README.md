@@ -211,3 +211,18 @@
 - Comprehensions
 
 * Platform: LinkedIn Learning
+
+## Day 19 - 24/11/22
+### **Data analysis with Google Sheet** 📊
+
+- Data summary
+- Data aggregation
+
+* Platform: TalentLabs
+
+### **Python data analysis** 🐍
+
+- 
+- 
+
+* Platform: LinkedIn Learning
