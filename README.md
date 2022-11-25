@@ -245,3 +245,11 @@
 
 * Platform: YouTube
 [Link](https://www.youtube.com/watch?v=0XyootjphNw)
+
+## Day 21 - 26/11/22
+### **Power BI Dashboard for Real Estate & Property Management** 🏘️
+
+- 
+
+* Platform: YouTube
+[Link](https://www.youtube.com/watch?v=q0kW22R0Cqo)
