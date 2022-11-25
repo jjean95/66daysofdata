@@ -222,7 +222,6 @@
 
 ### **Python data analysis** 🐍
 
-- 
-- 
+- Loops
 
 * Platform: LinkedIn Learning
