@@ -237,6 +237,8 @@
 ### **Power BI Dashboard for Real Estate & Property Management** 🏘️
 
 - Remove columns
+- Create custom columns
+- Create new tables
 
 * Platform: YouTube
 [Link](https://www.youtube.com/watch?v=0XyootjphNw)
