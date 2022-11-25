@@ -239,6 +239,7 @@
 - Remove columns
 - Create custom columns
 - Create new tables
+- Merge queries
 
 * Platform: YouTube
 [Link](https://www.youtube.com/watch?v=0XyootjphNw)
