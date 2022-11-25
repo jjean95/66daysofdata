@@ -240,6 +240,7 @@
 - Create custom columns
 - Create new tables
 - Merge queries
+- Model table relationships
 
 * Platform: YouTube
 [Link](https://www.youtube.com/watch?v=0XyootjphNw)
