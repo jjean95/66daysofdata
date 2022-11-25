@@ -241,6 +241,7 @@
 - Create new tables
 - Merge queries
 - Model table relationships
+- Design dashboard using PowerPoint
 
 * Platform: YouTube
 [Link](https://www.youtube.com/watch?v=0XyootjphNw)
