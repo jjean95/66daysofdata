@@ -225,3 +225,18 @@
 - Loops
 
 * Platform: LinkedIn Learning
+
+## Day 20 - 25/11/22
+### **Data analysis with Google Sheet** 📊
+
+- Data summary
+- Data aggregation
+
+* Platform: TalentLabs
+
+### **Power BI Dashboard for REAL Estate** 🏘️
+
+- Remove columns
+
+* Platform: YouTube
+[Link](https://www.youtube.com/watch?v=0XyootjphNw)
