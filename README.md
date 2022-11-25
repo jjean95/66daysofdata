@@ -234,7 +234,7 @@
 
 * Platform: TalentLabs
 
-### **Power BI Dashboard for REAL Estate** 🏘️
+### **Power BI Dashboard for Real Estate & Property Management** 🏘️
 
 - Remove columns
 
