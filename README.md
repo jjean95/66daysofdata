@@ -249,7 +249,7 @@
 ## Day 21 - 26/11/22
 ### **Power BI Dashboard for Real Estate & Property Management** 🏘️
 
-- 
+- Creating Measurement
 
 * Platform: YouTube
 [Link](https://www.youtube.com/watch?v=q0kW22R0Cqo)
