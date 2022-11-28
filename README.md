@@ -222,7 +222,7 @@
 
 ### **Python data analysis** 🐍
 
-- Loops
+- Data structures: Loops
 
 * Platform: LinkedIn Learning
 
@@ -253,3 +253,10 @@
 
 * Platform: YouTube
 [Link](https://www.youtube.com/watch?v=q0kW22R0Cqo)
+
+## Day 22 - 28/11/22
+### **Python Data Analysis** 🐍
+
+- Wordplay: Anagrams and Palindromes
+
+* Platform: LinkedIn Learning
