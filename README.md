@@ -267,4 +267,4 @@
 - Create and Upload dataset to Kaggle
 - Writing dataset description
 
-* Platform: Kaggle, Github 
+* Platform: [Kaggle](), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
