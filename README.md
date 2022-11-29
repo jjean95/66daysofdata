@@ -260,3 +260,10 @@
 - Wordplay: Anagrams and Palindromes
 
 * Platform: LinkedIn Learning
+
+## Day 23 - 29/11/22
+### **Data Analysis** 🐍
+
+- Upload dataset to Kaggle
+
+* Platform: Kaggle, Github
