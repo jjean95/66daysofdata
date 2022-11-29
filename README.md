@@ -268,3 +268,9 @@
 - Writing dataset description
 
 * Platform: [Kaggle](), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+
+### **Python Data Analysis** 🐍
+
+- Arrays with NumPy
+
+* Platform: LinkedIn Learning
