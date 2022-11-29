@@ -262,8 +262,9 @@
 * Platform: LinkedIn Learning
 
 ## Day 23 - 29/11/22
-### **Data Analysis** 🐍
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
 
-- Upload dataset to Kaggle
+- Create and Upload dataset to Kaggle
+- Writing dataset description
 
-* Platform: Kaggle, Github
+* Platform: Kaggle, Github 
