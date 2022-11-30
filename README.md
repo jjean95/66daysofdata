@@ -274,3 +274,11 @@
 - Arrays with NumPy
 
 * Platform: LinkedIn Learning
+
+## Day 24 - 30/11/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Create and Upload dataset to Kaggle
+- Writing dataset description
+
+* Platform: [Kaggle](), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
