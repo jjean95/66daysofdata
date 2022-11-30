@@ -267,7 +267,7 @@
 - Create and Upload dataset to Kaggle
 - Writing dataset description
 
-* Platform: [Kaggle](), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+* Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
 
 ### **Python Data Analysis** 🐍
 
@@ -281,4 +281,4 @@
 - Create and Upload dataset to Kaggle
 - Writing dataset description
 
-* Platform: [Kaggle](), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+* Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
