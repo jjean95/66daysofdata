@@ -282,3 +282,23 @@
 - Writing dataset description
 
 * Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+
+### **Data Visualization with Tableau** 🗺️:
+
+- Maps and Spatial Visualizations
+
+* Platform: DataCamp
+
+## Day 25 - 1/12/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Writing dataset description
+- Writing questions in Kaggle Notebook
+
+* Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+
+### **Data Visualization with Tableau** 🗺️:
+
+- Maps and Spatial Visualizations
+
+*Platform: DataCamp
