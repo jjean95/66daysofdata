@@ -281,7 +281,7 @@
 
 *Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
 
-### **Data Visualization with Tableau** 🗺️:
+### **Data Visualization with Tableau** 🗺️
 
 - Maps and Spatial Visualizations
 
@@ -292,11 +292,12 @@
 
 - Writing dataset description
 - Writing questions in Kaggle Notebook
+- Tableau geojson file
 
 *Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
 
-### **Data Visualization with Tableau** 🗺️:
+### **Data Visualization with Tableau** 🗺️
 
-- Maps and Spatial Visualizations
+- Putting all together
 
 *Platform: DataCamp
