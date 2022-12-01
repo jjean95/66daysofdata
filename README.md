@@ -16,7 +16,7 @@
   * Covariance
   * Correlation
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 2 - 6/11/22
 ### **Statistics** :chart_with_upwards_trend:
@@ -24,7 +24,7 @@
   * Normal distribution
   * Standard normal distribution
   
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 3 - 7/11/22
 ### **Statistics** :chart_with_upwards_trend:
@@ -40,7 +40,7 @@
   * Confidence intervals
   * z-score
    
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 4 - 8/11/22
 ### **Statistics** :chart_with_upwards_trend:
@@ -53,7 +53,7 @@
 
 - Exam - Confidence Intervals :memo:
    
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 5 - 9/11/22
 ### **Statistics** :chart_with_upwards_trend:
@@ -68,7 +68,7 @@
 
 - Exam - Hypothesis testing :memo:
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 6 - 10/11/22
 ### **Probability** :bar_chart:
@@ -79,7 +79,7 @@
   * Probability Frequency distribution
   * Complements
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 7 - 11/11/22
 ### **Probability** :bar_chart:
@@ -89,7 +89,7 @@
   * Factorals
   * Variations
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 8 - 12/11/22
 ### **Probability** :bar_chart:
@@ -97,7 +97,7 @@
 - Bayesian Inference
   * Sets & events
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 
 ## Day 9 - 13/11/22
@@ -108,7 +108,7 @@
   * Union
   * Mutually Exculsive
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 10 - 14/11/22
 ### **Probability** :bar_chart:
@@ -121,7 +121,7 @@
   * Multiplication rule
   * Bayes theorem
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 11 - 15/11/22
 ### **Probability** :bar_chart:
@@ -140,7 +140,7 @@
   * Attributes
   * Index
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 12 - 16/11/22
 ### **Data Cleaning & Preprocessing with Pandas** 🐼
@@ -155,7 +155,7 @@
 
 - Data Cleaning & Preprocessing
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 13 - 17/11/22
 ### **Probability** :bar_chart:
@@ -170,21 +170,21 @@
 
 - Data Cleaning & Preprocessing
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 14 - 18/11/22
 ### **Introduction to Data & Data Science** 
 
 - Data Science fields
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 15 - 19/11/22
 ### **Fashion Analytics with Tableau** 👗
 
 - Introduction
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 16 - 21/11/22
 ### **Fashion Analytics with Tableau** 👗
@@ -193,14 +193,14 @@
 
 [Link](https://public.tableau.com/app/profile/goh.jia.ean/viz/BuildingaFashionAnalyticsStory/Story1#1)
 
-* Platform: 365 data science
+*Platform: 365 data science
 
 ## Day 17 - 22/11/22
 ### **Python quick start** 🐍
 
 - Fundamentals: Data, Functions, Sequences, Conditional Statements, Iteration, Recursion
 
-* Platform: LinkedIn Learning
+*Platform: LinkedIn Learning
 
 ## Day 18 - 23/11/22
 ### **Python data analysis** 🐍
@@ -210,7 +210,7 @@
 - Dictionaries
 - Comprehensions
 
-* Platform: LinkedIn Learning
+*Platform: LinkedIn Learning
 
 ## Day 19 - 24/11/22
 ### **Data analysis with Google Sheet** 📊
@@ -218,13 +218,13 @@
 - Data summary
 - Data aggregation
 
-* Platform: TalentLabs
+*Platform: TalentLabs
 
 ### **Python data analysis** 🐍
 
 - Data structures: Loops
 
-* Platform: LinkedIn Learning
+*Platform: LinkedIn Learning
 
 ## Day 20 - 25/11/22
 ### **Data analysis with Google Sheet** 📊
@@ -232,7 +232,7 @@
 - Data summary
 - Data aggregation
 
-* Platform: TalentLabs
+*Platform: TalentLabs
 
 ### **Power BI Dashboard for Real Estate & Property Management** 🏘️
 
@@ -243,23 +243,21 @@
 - Model table relationships
 - Design dashboard using PowerPoint
 
-* Platform: YouTube
-[Link](https://www.youtube.com/watch?v=0XyootjphNw)
+*Platform: [YouTube](https://www.youtube.com/watch?v=0XyootjphNw)
 
 ## Day 21 - 26/11/22
 ### **Power BI Dashboard for Real Estate & Property Management** 🏘️
 
 - Creating Measurement
 
-* Platform: YouTube
-[Link](https://www.youtube.com/watch?v=q0kW22R0Cqo)
+*Platform: [YouTube](https://www.youtube.com/watch?v=q0kW22R0Cqo)
 
 ## Day 22 - 28/11/22
 ### **Python Data Analysis** 🐍
 
 - Wordplay: Anagrams and Palindromes
 
-* Platform: LinkedIn Learning
+*Platform: LinkedIn Learning
 
 ## Day 23 - 29/11/22
 ### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
@@ -267,13 +265,13 @@
 - Create and Upload dataset to Kaggle
 - Writing dataset description
 
-* Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+*Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
 
 ### **Python Data Analysis** 🐍
 
 - Arrays with NumPy
 
-* Platform: LinkedIn Learning
+*Platform: LinkedIn Learning
 
 ## Day 24 - 30/11/22
 ### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
@@ -281,13 +279,13 @@
 - Create and Upload dataset to Kaggle
 - Writing dataset description
 
-* Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+*Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
 
 ### **Data Visualization with Tableau** 🗺️:
 
 - Maps and Spatial Visualizations
 
-* Platform: DataCamp
+*Platform: DataCamp
 
 ## Day 25 - 1/12/22
 ### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
@@ -295,7 +293,7 @@
 - Writing dataset description
 - Writing questions in Kaggle Notebook
 
-* Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+*Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
 
 ### **Data Visualization with Tableau** 🗺️:
 
