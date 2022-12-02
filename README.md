@@ -301,3 +301,12 @@
 - Putting all together
 
 *Platform: DataCamp
+
+## Day 26 - 2/12/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Writing dataset description
+- Writing questions in Kaggle Notebook
+- Exploartory Data Analysis
+
+*Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
