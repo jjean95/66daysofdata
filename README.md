@@ -315,5 +315,7 @@
 ### **Case Study: Analyzing Job Market Data in Tableau** 💼
 
 - Exploratory Analysis
+- Analyzing Market Trends
+- Dashboards and Insights
 
 *Platform: DataCamp
