@@ -322,6 +322,6 @@
 
 ### **Statistical techniques in Tableau** 📉
 
-- Univariate exploratory data analysis
+- Univariate (a type of data which consists of observations on only a single characteristic or attribute) exploratory data analysis
 
 *Platform: DataCamp
