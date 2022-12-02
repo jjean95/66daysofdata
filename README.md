@@ -319,3 +319,9 @@
 - Dashboards and Insights
 
 *Platform: DataCamp
+
+### **Statistical techniques in Tableau** 📉
+
+- Univariate exploratory data analysis
+
+*Platform: DataCamp
