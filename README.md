@@ -308,6 +308,6 @@
 - Writing dataset description
 - Writing questions in Kaggle Notebook
 - Exploartory Data Analysis 
-- To do: Reupload the csv files (some dataset was renamed, wait for Padang Serai results)
+- To do: Reupload the csv files (some dataset was renamed (Aman to Sri Aman), wait for Padang Serai results)
 
 *Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
