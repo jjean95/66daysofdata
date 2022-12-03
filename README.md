@@ -325,3 +325,12 @@
 - Univariate (a type of data which consists of observations on only a single characteristic or attribute) exploratory data analysis
 
 *Platform: DataCamp
+
+## Day 27 - 3/12/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Exploartory Data Analysis 
+- To do: Reupload the csv files (some dataset was renamed (Aman to Sri Aman), wait for Padang Serai results)
+
+*Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+
