@@ -343,3 +343,11 @@
 - To do: Reupload the csv files (wait for Padang Serai results)
 
 *Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+
+### **Calculations in Tableau** 📉
+
+- IF and CASE
+- ISNULL
+- Calculated field
+
+*Platform: DataCamp
