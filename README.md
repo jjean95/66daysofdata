@@ -339,7 +339,8 @@
 ### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
 
 - Exploartory Data Analysis 
-- Data cleaning & wrangling
+- Data wrangling
+- Matplotlib
 - To do: Reupload the csv files (wait for Padang Serai results)
 
 *Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
