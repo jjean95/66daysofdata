@@ -352,3 +352,9 @@
 - Calculated field
 
 *Platform: DataCamp
+
+### **Data Science - Learn Python For Data Science by Doing Several Projects (video)** :snake:
+
+- 
+
+*Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube](https://www.youtube.com/watch?v=T5pRlIbr6gg)
