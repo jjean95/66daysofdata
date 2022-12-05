@@ -358,3 +358,26 @@
 - Introduction
 
 *Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube](https://www.youtube.com/watch?v=T5pRlIbr6gg)
+
+## Day 28 - 5/12/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Exploartory Data Analysis 
+- Data wrangling
+- Matplotlib
+- To do: Reupload the csv files (wait for Padang Serai results)
+
+*Platform: [Kaggle](https://www.kaggle.com/datasets/jjean95/malaysia-general-election-datasets), [Github dataset](https://github.com/Thevesh/analysis-election-msia)
+
+### **Calculations in Tableau** 📉
+
+- INCLUDE
+- EXCLUDE
+
+*Platform: DataCamp
+
+### **Data Science - Learn Python For Data Science by Doing Several Projects (video)** :snake:
+
+- Twitter sentiment analysis
+
+*Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube](https://www.youtube.com/watch?v=o_OZdbCzHUA)
