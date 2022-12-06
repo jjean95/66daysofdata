@@ -381,3 +381,8 @@
 - Twitter sentiment analysis
 
 *Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube](https://www.youtube.com/watch?v=o_OZdbCzHUA)
+
+## Day 29 - 6/12/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Tableau
