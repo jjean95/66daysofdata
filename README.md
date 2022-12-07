@@ -393,6 +393,7 @@
 ### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
 
 - Tableau Data Visualization
+- To do: Resize the squares for generation and parties, Tooltip for total votes (map)
 
 *Platform: [Tableau](https://public.tableau.com/app/profile/goh.jia.ean/viz/MalaysiaGeneralElection15/Story1)
 
