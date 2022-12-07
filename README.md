@@ -385,4 +385,15 @@
 ## Day 29 - 6/12/22
 ### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
 
-- Tableau
+- Tableau Data Visualization
+
+*Platform: [Tableau]()
+
+## Day 30 - 7/12/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Tableau Data Visualization
+
+*Platform: [Tableau]()
+
+
