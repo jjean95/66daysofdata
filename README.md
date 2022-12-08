@@ -398,4 +398,9 @@
 
 *Platform: [Tableau](https://public.tableau.com/app/profile/goh.jia.ean/viz/MalaysiaGeneralElection15/Story1)
 
+## Day 31 - 8/12/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
 
+- Tableau Data Visualization
+
+*Platform: [Tableau](https://public.tableau.com/app/profile/goh.jia.ean/viz/MalaysiaGeneralElection15/Story1)
