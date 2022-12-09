@@ -404,3 +404,5 @@
 - Tableau Data Visualization
 
 *Platform: [Tableau](https://public.tableau.com/app/profile/goh.jia.ean/viz/MalaysiaGeneralElection15/Story1)
+
+## Day 32 - 9/12/22
