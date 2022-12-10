@@ -406,3 +406,13 @@
 *Platform: [Tableau](https://public.tableau.com/app/profile/goh.jia.ean/viz/MalaysiaGeneralElection15/Story1)
 
 ## Day 32 - 9/12/22
+### **Statistical techniques in Tableau** 📉
+
+- Univariate (a type of data which consists of observations on only a single characteristic or attribute) exploratory data analysis
+
+*Platform: DataCamp
+
+## Day 33 - 10/12/22
+### **Statistical techniques in Tableau** 📉
+
+- 
