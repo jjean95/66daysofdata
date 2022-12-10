@@ -415,4 +415,13 @@
 ## Day 33 - 10/12/22
 ### **Statistical techniques in Tableau** 📉
 
-- 
+
+- Measures of spread and confidence intervals
+
+*Platform: DataCamp
+
+### **Data Science - Learn Python For Data Science by Doing Several Projects (video)** :snake:
+
+- Recommendation Systems
+
+*Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=4)
