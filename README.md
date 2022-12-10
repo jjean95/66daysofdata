@@ -408,7 +408,7 @@
 ## Day 32 - 9/12/22
 ### **Statistical techniques in Tableau** 📉
 
-- Univariate (a type of data which consists of observations on only a single characteristic or attribute) exploratory data analysis
+- Measures of spread and confidence intervals
 
 *Platform: DataCamp
 
