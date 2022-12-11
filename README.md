@@ -425,11 +425,15 @@
 
 *Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=4)
 
-### **Kaggle Tour De France** :bicycle:
+### **Kaggle Tour De France** 🚴
 
 - Outliers
 
 *Platform: [Kaggle](https://www.kaggle.com/code/ankitraturi/tour-de-france-analytics/notebook)
 
 ## Day 34 - 11/12/22
-###
+### **Kaggle Tour De France** 🚴
+
+- Outliers
+
+*Platform: [Kaggle](https://www.kaggle.com/code/ankitraturi/tour-de-france-analytics/notebook)
