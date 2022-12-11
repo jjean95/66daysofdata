@@ -427,13 +427,13 @@
 
 ### **Kaggle Tour De France** 🚴
 
-- Outliers
+- Outliers by Country
 
 *Platform: [Kaggle](https://www.kaggle.com/code/ankitraturi/tour-de-france-analytics/notebook)
 
 ## Day 34 - 11/12/22
 ### **Kaggle Tour De France** 🚴
 
-- Outliers
+- Outliers by Country
 
 *Platform: [Kaggle](https://www.kaggle.com/code/ankitraturi/tour-de-france-analytics/notebook)
