@@ -444,3 +444,9 @@
 - Predicting Stock Prices
 
 *Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube](https://www.youtube.com/watch?v=SSu00IRRraY&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
+
+### **Kaggle - Pandas** 🐼
+
+- Revise all chapters
+
+*Platform: Kaggle
