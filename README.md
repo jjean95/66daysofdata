@@ -450,3 +450,7 @@
 - Revise all chapters
 
 *Platform: Kaggle
+
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Post the Tableau link on LinkedIn
