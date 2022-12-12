@@ -437,3 +437,10 @@
 - Outliers by Country
 
 *Platform: [Kaggle](https://www.kaggle.com/code/ankitraturi/tour-de-france-analytics/notebook)
+
+## Day 35 - 12/12/22
+### **Data Science - Learn Python For Data Science by Doing Several Projects (video)** :snake:
+
+- Recommendation Systems
+
+*Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube]()
