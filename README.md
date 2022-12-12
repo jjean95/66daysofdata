@@ -441,6 +441,6 @@
 ## Day 35 - 12/12/22
 ### **Data Science - Learn Python For Data Science by Doing Several Projects (video)** :snake:
 
-- Recommendation Systems
+- Predicting Stock Prices
 
-*Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube]()
+*Platform: [GitHub](https://github.com/practical-tutorials/project-based-learning#python), [YouTube](https://www.youtube.com/watch?v=SSu00IRRraY&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
