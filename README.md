@@ -448,6 +448,7 @@
 ### **Kaggle - Pandas** 🐼
 
 - Revise all chapters
+- Summary Functions and Maps
 
 *Platform: Kaggle
 
