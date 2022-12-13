@@ -455,3 +455,12 @@
 ### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
 
 - Post the Tableau link on LinkedIn
+
+## Day 36 - 13/12/22
+### **Kaggle - Pandas** 🐼
+
+- Revise all chapters
+- Summary Functions and Maps
+
+*Platform: Kaggle
+
