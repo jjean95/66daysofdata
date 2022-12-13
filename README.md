@@ -464,3 +464,8 @@
 
 *Platform: Kaggle
 
+### **Statistical techniques in Tableau** 📉
+
+- Forecasts
+
+*Platform: DataCamp
