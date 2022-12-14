@@ -474,7 +474,7 @@
 ### **Kaggle - Pandas** 🐼
 
 - Data Types and Missing Values
--
+- Renaming and joining data
 
 *Platform: Kaggle
 
