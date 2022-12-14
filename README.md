@@ -478,3 +478,8 @@
 
 *Platform: Kaggle
 
+### **Python Data Analysis** 🐍
+
+- Use case: Weather data
+
+*Platform: LinkedIn Learning
