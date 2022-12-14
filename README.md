@@ -460,7 +460,7 @@
 ### **Kaggle - Pandas** 🐼
 
 - Revise all chapters
-- Summary Functions and Maps
+- Grouping and sorting
 
 *Platform: Kaggle
 
@@ -469,3 +469,12 @@
 - Forecasts
 
 *Platform: DataCamp
+
+## Day 37 - 14/12/22
+### **Kaggle - Pandas** 🐼
+
+- Data Types and Missing Values
+-
+
+*Platform: Kaggle
+
