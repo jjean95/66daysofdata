@@ -483,3 +483,10 @@
 - Use case: Weather data
 
 *Platform: LinkedIn Learning
+
+## Day 38 - 15/12/22
+### **Data analyst portfolio** 🖼️
+
+- Create data analyst portfolio for free
+
+*Platform: carrd.co
