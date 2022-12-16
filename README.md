@@ -501,3 +501,9 @@
 - Edit portfolio
 
 *Platform: carrd.co
+
+### **Kaggle - Intro to Machine learning** ⚙️
+
+- Building ML model
+
+*Platform: Kaggle
