@@ -490,3 +490,14 @@
 - Create data analyst portfolio for free
 
 *Platform: carrd.co
+
+### **Calculations in Tableau** 📉
+
+*Platform: DataCamp
+
+## Day 39 - 16/12/22
+### **Data analyst portfolio** 🖼️
+
+- Edit portfolio
+
+*Platform: carrd.co
