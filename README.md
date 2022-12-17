@@ -511,6 +511,6 @@
 ## Day 40 - 17/12/22
 ### **Kaggle - Intro to Machine learning** ⚙️
 
-- Building ML model
+- Model validation
 
 *Platform: Kaggle
