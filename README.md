@@ -518,6 +518,6 @@
 ## Day 41 - 18/12/22
 ### **Kaggle - Intro to Machine learning** ⚙️
 
-- Model validation
+- Underfitting and Overfitting
 
 *Platform: Kaggle
