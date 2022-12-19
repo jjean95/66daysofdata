@@ -529,3 +529,9 @@
 - Introduction
 
 *Platform: Kaggle
+
+### **Data analyst portfolio** 🖼️
+
+- Edit portfolio
+
+*Platform: [carrd.co](https://jiaeangoh.carrd.co/)
