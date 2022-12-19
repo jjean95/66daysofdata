@@ -519,12 +519,13 @@
 ### **Kaggle - Intro to Machine learning** ⚙️
 
 - Underfitting and Overfitting
+- Random forests
 
 *Platform: Kaggle
 
 ## Day 42 - 19/12/22
 ### **Kaggle - Intermediate Machine learning** ⚙️
 
-- Underfitting and Overfitting
+- Introduction
 
 *Platform: Kaggle
