@@ -521,3 +521,10 @@
 - Underfitting and Overfitting
 
 *Platform: Kaggle
+
+## Day 42 - 19/12/22
+### **Kaggle - Intermediate Machine learning** ⚙️
+
+- Underfitting and Overfitting
+
+*Platform: Kaggle
