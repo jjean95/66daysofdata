@@ -535,3 +535,10 @@
 - Edit portfolio
 
 *Platform: [carrd.co](https://jiaeangoh.carrd.co/)
+
+## Day 43 - 20/12/22
+### **Kaggle - Intermediate Machine learning** ⚙️
+
+- Introduction
+
+*Platform: Kaggle
