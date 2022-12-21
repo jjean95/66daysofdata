@@ -542,3 +542,10 @@
 - Introduction
 
 *Platform: Kaggle
+
+## Day 44 - 21/12/22
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Edit and revise the bar charts
+
+*Platform: Kaggle
