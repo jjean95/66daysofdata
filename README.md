@@ -549,3 +549,6 @@
 - Edit and revise the bar charts
 
 *Platform: Kaggle
+
+## Day 45 - 22/12/22
+###
