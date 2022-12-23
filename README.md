@@ -553,13 +553,13 @@
 ## Day 45 - 22/12/22
 ### **Kaggle - Intermediate Machine learning** ⚙️
 
-- Introduction
+- Categorical Variables
 
 *Platform: Kaggle
 
 ## Day 46 - 23/12/22
 ### **Kaggle - Intermediate Machine learning** ⚙️
 
-- Introduction
+- Categorical Variables
 
 *Platform: Kaggle
