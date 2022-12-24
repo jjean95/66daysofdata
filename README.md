@@ -563,3 +563,10 @@
 - Categorical Variables
 
 *Platform: Kaggle
+
+## Day 47 - 24/12/22
+### **Kaggle - Intermediate Machine learning** ⚙️
+
+- Categorical Variables
+
+*Platform: Kaggle
