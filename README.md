@@ -567,6 +567,6 @@
 ## Day 47 - 24/12/22
 ### **Kaggle - Intermediate Machine learning** ⚙️
 
-- Categorical Variables
+- Pipelines
 
 *Platform: Kaggle
