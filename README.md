@@ -570,3 +570,10 @@
 - Pipelines
 
 *Platform: Kaggle
+
+## Day 48 - 25/12/22
+### **Kaggle - Intermediate Machine learning** ⚙️
+
+- Cross-validation
+
+*Platform: Kaggle
