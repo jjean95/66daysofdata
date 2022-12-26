@@ -577,3 +577,10 @@
 - Cross-validation
 
 *Platform: Kaggle
+
+## Day 49 - 26/12/22
+### **Kaggle - Intermediate Machine learning** ⚙️
+
+- XGBoost
+
+*Platform: Kaggle
