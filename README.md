@@ -598,7 +598,7 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 
 *Platform: Kaggle
 
-### **DataCamp - Calculations in Tableau** ::
+### **DataCamp - Calculations in Tableau** ⏲️
 
 - Time Series Analysis
 
