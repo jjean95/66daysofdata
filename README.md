@@ -584,3 +584,10 @@
 - XGBoost
 
 *Platform: Kaggle
+
+## Day 50 - 27/12/22
+### **Kaggle - Intermediate Machine learning** ⚙️
+
+- Data Leakage
+
+*Platform: Kaggle
