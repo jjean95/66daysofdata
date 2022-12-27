@@ -1,5 +1,5 @@
 # 66 days of data
-66 Days of data log
+Data Log of 66 days of data challenge, capturing day-to-day data science/ analytics learning journey and accountability
 
 ## Day 1 - 5/11/22
 ### **Statistics** :chart_with_upwards_trend:
@@ -589,5 +589,11 @@
 ### **Kaggle - Intermediate Machine learning** ⚙️
 
 - Data Leakage
+
+*Platform: Kaggle
+
+### **Kaggle - Feature Engineering** ⚙️
+
+- Introduction
 
 *Platform: Kaggle
