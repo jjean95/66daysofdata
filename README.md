@@ -605,6 +605,10 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 *Platform: DataCamp
 
 ## Day 51 - 28/12/22
+### **Data Analyst Portfolio** 
+
+- Credit Risk
+
 ### **Kaggle - Feature Engineering** ⚙️
 
 -
