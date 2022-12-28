@@ -603,3 +603,10 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 - Time Series Analysis
 
 *Platform: DataCamp
+
+## Day 51 - 28/12/22
+### **Kaggle - Feature Engineering** ⚙️
+
+-
+
+*Platform: Kaggle
