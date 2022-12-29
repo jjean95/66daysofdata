@@ -609,6 +609,7 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 
 - Credit Risk
 
+## Day 52 - 29/12/22
 ### **Kaggle - Feature Engineering** ⚙️
 
 -
