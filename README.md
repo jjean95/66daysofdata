@@ -612,6 +612,6 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 ## Day 52 - 29/12/22
 ### **Kaggle - Feature Engineering** ⚙️
 
--
+- Mutual Information
 
 *Platform: Kaggle
