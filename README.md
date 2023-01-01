@@ -625,6 +625,10 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 *Platform: Kaggle
 
 ## Day 54 - 1/1/23
-### **Kaggle - **
+### **Kaggle - Feature Engineering** ⚙️
+
+- Clustering with K-means
+
+*Platform: Kaggle
 
 
