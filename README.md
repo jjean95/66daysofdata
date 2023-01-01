@@ -623,3 +623,8 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 - Creating Features
 
 *Platform: Kaggle
+
+## Day 54 - 1/1/23
+### **Kaggle - **
+
+
