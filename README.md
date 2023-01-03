@@ -638,3 +638,10 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 - Clustering with K-means
 
 *Platform: Kaggle
+
+## Day 56 - 3/1/23
+### **Kaggle - Feature Engineering** ⚙️
+
+- Principal Component Analysis
+
+*Platform: Kaggle
