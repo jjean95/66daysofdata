@@ -645,3 +645,17 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 - Principal Component Analysis
 
 *Platform: Kaggle
+
+## Day 57 - 4/1/23
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Update the Padang Serai data
+- Pending to upload the data to Tableau
+
+*Platform: Kaggle
+
+### **Kaggle - Feature Engineering** ⚙️
+
+- 
+
+*Platform: Kaggle
