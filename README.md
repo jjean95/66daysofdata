@@ -664,7 +664,7 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 ## Day 58 - 5/1/23
 ### **Kaggle - Feature Engineering** ⚙️
 
-- Principal Component Analysis
+- Target Encoding
 
 *Platform: Kaggle
 
