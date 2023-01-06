@@ -668,3 +668,9 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 
 *Platform: Kaggle
 
+## Day 59 - 6/1/23
+### **Kaggle - Feature Engineering** ⚙️
+
+- Target Encoding
+
+*Platform: Kaggle
