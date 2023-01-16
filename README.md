@@ -674,3 +674,12 @@ Data Log of 66 days of data challenge, capturing day-to-day data science/ analyt
 - Target Encoding
 
 *Platform: Kaggle
+
+## Day 60 - 16/1/23
+### **Malaysia GE dataset Data Analysis using Kaggle** 🗳️
+
+- Update the Padang Serai data
+- Update GE-15 Kaggle dataset descriptions
+- Pending to upload the data to Tableau
+
+*Platform: Kaggle
